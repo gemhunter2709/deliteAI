@@ -88,7 +88,7 @@ DL_SDKS_DIR/android/README.md
 
 coreruntime <https://github.com/NimbleEdge/deliteAI/blob/main/coreruntime/README.md>
 iOS <DL_SDKS_DIR/ios/docs/DEVELOPMENT.md>
-Android (TBD) <DL_SDKS_DIR/android/README.md>
+Android <DL_SDKS_DIR/android/README.md>
 ```
 
 ```{toctree}
